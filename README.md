@@ -44,6 +44,6 @@ Instant delivery platforms like **Blinkit**, **Zomato**, and **Zepto** use dynam
 -  Compare pricing trends across platforms
 
 
-The full implementation, from data to final model evaluation can be foun in .['mpp2.ipynb'].(./mpp2.ipynb)
+The full implementation, from data to final model evaluation can be foun in .['mpp2.ipynb'](./mpp2.ipynb)
 
 
